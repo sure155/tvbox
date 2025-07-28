@@ -81,7 +81,13 @@
 {"key":"卧龙","name":"卧龙┃采集","type":0,"api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml/?ac=list","searchable":1,"changeable":1},    
 {"key":"快车","name":"快车┃采集","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},    
 {"key":"红牛","name":"红牛┃采集","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/at/josn/","searchable":1,"changeable":1},    
-{"key":"快播","name":"快播┃采集","type":1,"api":"https://gayapi.com/api.php/provide/vod/at/json","searchable":1,"changeable":1},    
+{"key":"快播","name":"快播┃采集","type":1,"api":"https://gayapi.com/api.php/provide/vod/at/json","searchable":1,"changeable":1},
+{"key":"蜂巢","name":"蜂巢┃采集","type":1,"api":"https://api.fczy888.me/api.php/provide/vod/at/json","searchable":1,"changeable":1,"ext":"https://jiexi.fczy888.vip/?url="},  
+{"key":"华为吧","name":"华为吧┃采集","type":1,"api":"https://hw8.live/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"ext":"https://dp.hw8.live/player/?url="},  
+{"key":"爱奇艺","name":"爱奇艺┃采集","type":1,"api":"https://iqiyizyapi.com/api.php/provide/vod","searchable":1,"changeable":1},  
+{"key":"天涯","name":"天涯┃采集","type":1,"api":"https://tyyszyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},      
+    
+    
 
     
 {"key":"drpy_js_360影视","name":"官源┃360[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
