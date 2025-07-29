@@ -20,7 +20,6 @@
 ],
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
-    {"key":"茅台","name":"📔茅台┃不卡","type":3,"api":"https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"豆","name":"【神秘的哥哥们】","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
     {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGGGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.com/","danMu":"弹"}},
     {"key":"YGP","name":"🚀叨观荐影┃预告片","type":3,"api":"csp_YGPGuard","searchable":0,"quickSearch":0,"changeable":0},
