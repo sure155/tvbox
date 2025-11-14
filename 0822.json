@@ -52,7 +52,7 @@
     {"key":"fan","name":"导航www.饭太硬.com","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0},
     {"key":"cc","name":"请勿相信视频中广告","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0},
 
-    <!-- 下方是你后半部分的独立采集源，我已经全部合并到 sites 末尾 -->
+    
     {"key":"csp_AList","name":"AList┃网盘","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"ext":"./json/alist.json"},
     {"key":"新6V2","name":"新6V磁力┃慎用","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/","timeout":60},
     {"key":"茅台","name":"茅台┃采集","type":1,"api":"https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/","searchable":1,"changeable":1},
