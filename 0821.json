@@ -186,7 +186,7 @@
     {"api":"./lib/drpy2.min.js","key":"drpy_js_DJ音乐","name":"音频┃DJ音乐[js]","type":"3","ext":"./js/DJ音乐.js"},
     {"api":"./lib/drpy2.min.js","key":"drpy_js_短视频","name":"聚合┃短视频[js]","type":"3","ext":"./js/短视频.js"},
     {"api":"./lib/drpy2.min.js","key":"drpy_js_酷6网","name":"聚合┃酷6网[js]","type":"3","ext":"./js/酷6网.js"},
-    {"api":"./lib/drpy2.min.js","key":"drpy_js_网易公版影像","name":"聚合┃网易公版[js]","type":"3","ext":"./js/网易公版影像.js},
+    
     
     {"api":"https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/","key":"茅台","name":"茅台┃采集","type":1,"searchable":1,"changeable":1},
     {"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn","key":"新浪","name":"新浪┃采集","type":1,"searchable":1,"changeable":1},
@@ -265,8 +265,8 @@
     {"api":"https://lbapi9.com/api.php/provide/vod","key":"乐播资源","name":"乐播资源","type":1},
     {"api":"https://aosikazy.com/api.php/provide/vod","key":"奥斯卡资源","name":"奥斯卡资源","type":1},
     {"api":"https://Naixxzy.com/api.php/provide/vod","key":"奶香香","name":"奶香香","type":1},
-    {"api":"https://slapibf.com/api.php/provide/vod","key":"森林资源","name":"森林资源","type":1"},
-    {"api":"https://www.xrbsp.com/api/json.php","key":"淫水机资源","name":"淫水机资源","type":1"}
+    {"api":"https://slapibf.com/api.php/provide/vod","key":"森林资源","name":"森林资源","type":1},
+    {"api":"https://www.xrbsp.com/api/json.php","key":"淫水机资源","name":"淫水机资源","type":1}
   ],
   "flags": [
     "youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩","SPA","YuMi-vip","pptv","PPTV","ltnb","rx","SLYS4k","tucheng","BYGA","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","renrenmi","ppayun","haiwaikan","cool","dbm3u8","xmm","funshion","ruyi1080","ruyib1080"
