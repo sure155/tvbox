@@ -230,11 +230,7 @@
     {"api":"./lib/drpy2.min.js","key":"drpy_js_DJ音乐","name":"音频┃DJ音乐[js]","type":"3","ext":"./js/DJ音乐.js"},
     {"api":"./lib/drpy2.min.js","key":"drpy_js_短视频","name":"聚合┃短视频[js]","type":"3","ext":"./js/短视频.js"},
     {"api":"./lib/drpy2.min.js","key":"drpy_js_酷6网","name":"聚合┃酷6网[js]","type":"3","ext":"./js/酷6网.js"},
-    {"api":"./lib/drpy2.min.js","key":"drpy_js_网易公版影像","name":"聚合┃网易公版[js]","type":"3","ext":"./js/网易公版影像.js"},
-    {"api":"./lib/drpy2.min.js","key":"drpy_js_酷奇MV","name":"MV┃酷奇[js]","type":"3","ext":"./js/酷奇MV.js"},
-    
-
-
+    {"api":"./lib/drpy2.min.js","key":"drpy_js_网易公版影像","name":"聚合┃网易公版[js]","type":"3","ext":"./js/网易公版影像.js},
 {
 "spider":"https://oss4liview.moji.com/thd_file/2025/11/11/ee569a4a129ec2bb8cbc97432f7d85d0.jpg;md5;6713b8d1f3cd6fa972c71c653e15450d",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
