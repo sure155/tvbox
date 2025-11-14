@@ -291,4 +291,4 @@
     {"name":"nm","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
     {"name":"cl","hosts":["magnet"],"regex":["最 新","直 播","更 新"]}
   ]
-}
+
